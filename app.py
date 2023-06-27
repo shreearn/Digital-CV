@@ -163,7 +163,7 @@ st.write('\n')
 st.subheader("Projects")
 st.write("---")
 st.write("🏆WhatsApp Chat Analyzer")
-
+st.write("🏆Digital CV")
 
 
 

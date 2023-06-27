@@ -80,24 +80,35 @@ st.write('\n')
 st.write('\n')
 st.subheader("Experience")
 st.write('\n')
-st.write("✅","[Data Science Intern at LetsGrowMore](https://drive.google.com/file/d/1dbRHXvTWWnDxYnoMQYbHk8NfqxtHMIaY/view?usp=drive_link)")
+st.write("📌","[Data Science Intern at LetsGrowMore](https://drive.google.com/file/d/1dbRHXvTWWnDxYnoMQYbHk8NfqxtHMIaY/view?usp=drive_link)")
 st.write("-"+" Mar 2023 - Apr 2023")
 st.write(""" 
--  Developed decision tree algorithm for classification with data preprocessing and feature engineering.
--  Analyzed Iris dataset, ensured data integrity through cleaning and preprocessing.
--  Utilized statistical techniques and data visualization to accurately classify Iris flower species.
--  Developed LSTM model for time series prediction with data preprocessing and hyperparameter tuning.
--  Demonstrated strong problem-solving skills and proficiency in Python for machine learning.
+-  🔗Developed decision tree algorithm for classification with data preprocessing and feature engineering.
+-  🔗Analyzed Iris dataset, ensured data integrity through cleaning and preprocessing.
+-  🔗Utilized statistical techniques and data visualization to accurately classify Iris flower species.
+-  🔗Developed LSTM model for time series prediction with data preprocessing and hyperparameter tuning.
+-  🔗Demonstrated strong problem-solving skills and proficiency in Python for machine learning.
 """)
 
 st.write('\n')
 st.write('\n')
 st.write('\n')
-st.write("✅","[Data Science Intern at Bharat Intern](https://drive.google.com/file/d/1qHdecIs6TGUby3MGUFC2LRgVS30DrCvp/view?usp=drive_link)")
-st.write("-"+" 2023 - June 2023")
+st.write("📌","[Data Science & Business Analytics intern at The Sparks Foundation](https://drive.google.com/file/d/16F0T-6gsIOY2UpZnpwgTyEEI5IsrumLA/view?usp=sharing)")
+st.write("-"+" Apr 2023 - May 2023")
 st.write(""" 
--  Developed stock price prediction system using LSTM neural networks, preprocessing historical data, and evaluating performance.
--  Built Titanic survival prediction system, preprocessing and analyzing data, using machine learning algorithms, and presenting findings.
+-  🔗Utilized supervised machine learning techniques to predict student performance based on study hours using Linear Regression with Python's Scikit Learn library.Developed a model to forecast the percentage of a student based on the number of study hours.
+-  🔗Employed unsupervised machine learning methods, specifically K-Means Clustering.Determined the optimal number of clusters and represented them visually.
+"""
+)
+
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.write("📌","[Data Science Intern at Bharat Intern](https://drive.google.com/file/d/1qHdecIs6TGUby3MGUFC2LRgVS30DrCvp/view?usp=drive_link)")
+st.write("-"+" May 2023 - Jun 2023")
+st.write(""" 
+-  🔗Developed stock price prediction system using LSTM neural networks, preprocessing historical data, and evaluating performance.
+-  🔗Built Titanic survival prediction system, preprocessing and analyzing data, using machine learning algorithms, and presenting findings.
 """
 )
 

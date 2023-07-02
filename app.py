@@ -159,12 +159,12 @@ st.subheader("Skills")
 st.write("---")
 st.write(
     """
--   ➡️Data Analysis
--	🎯Python
--	🎯Machine Learning
--	🎯Tableau
--	🎯Excel
--   🎯Data Visualization 
+-   ▶️Data Analysis
+-	▶️Python
+-	▶️Machine Learning
+-	▶️Tableau
+-	▶️Excel
+-   ▶️Data Visualization 
 """
 )
 

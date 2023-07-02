@@ -95,7 +95,7 @@ st.write("""
 st.write('\n')
 st.write('\n')
 st.write('\n')
-st.write("📌","[Data Visualization: Empowering Business with Effective Insights | TATA](https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=sharing)")
+st.write("📌","[Data Visualization: Empowering Business with Effective Insights by TATA](https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=sharing)")
 st.write("-"+" May 2023 - Jul 2023")
 st.write("""
 -  🔗Frame business scenarios to understand objectives and define visualization requirements.

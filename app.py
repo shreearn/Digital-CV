@@ -90,6 +90,21 @@ st.write("""
 -  🔗Demonstrated strong problem-solving skills and proficiency in Python for machine learning.
 """)
 
+
+
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.write("📌","[Data Visualization: Empowering Business with Effective Insights | TATA] (https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=sharing)")
+st.write("-"+" May 2023 - Jul 2023")
+st.write("""
+-  🔗Frame business scenarios to understand objectives and define visualization requirements.
+-  🔗Select appropriate visualizations based on data analysis to effectively represent patterns, trends, and relationships.
+-  🔗Create impactful visualizations using Tableau, applying best practices in design for accuracy, reliability, and visual appeal.
+-  🔗Communicate insights and analysis through clear narratives and presentations to stakeholders.
+"""
+)
+
 st.write('\n')
 st.write('\n')
 st.write('\n')

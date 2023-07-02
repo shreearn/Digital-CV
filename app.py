@@ -102,8 +102,7 @@ st.write("""
 -  🔗Select appropriate visualizations based on data analysis to effectively represent patterns, trends, and relationships.
 -  🔗Create impactful visualizations using Tableau, applying best practices in design for accuracy, reliability, and visual appeal.
 -  🔗Communicate insights and analysis through clear narratives and presentations to stakeholders.
-"""
-)
+""")
 
 st.write('\n')
 st.write('\n')

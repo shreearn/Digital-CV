@@ -170,6 +170,8 @@ st.write(
 -	▶️Tableau
 -	▶️Excel
 -   ▶️Data Visualization 
+-   ▶️Data Mining
+-   ▶️SQL
 """
 )
 

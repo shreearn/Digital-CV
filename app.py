@@ -199,7 +199,7 @@ st.write('\n')
 st.subheader("Certifications")
 st.write("---")
 
-st.write("📄[Advanced Ms-Excel by Kes Sroff college](https://drive.google.com/file/d/1JYDrTZ5RxPj8yPTs7Pgjo4jdCp-xUwRV/view?usp=drive_link)")
+st.write("📄[Advanced Ms-Excel by Kes Shroff College](https://drive.google.com/file/d/1JYDrTZ5RxPj8yPTs7Pgjo4jdCp-xUwRV/view?usp=drive_link)")
 st.write("📄[Introduction to Large Language Models by Google](https://drive.google.com/file/d/1t_BCDRbKbr_Ost-kKI3IxpBAiQt1howe/view?usp=sharing)")
 
 

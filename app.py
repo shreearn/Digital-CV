@@ -219,9 +219,9 @@ st.subheader("Languages kwon")
 st.write("---")
 st.write(
     """
--   📍English
--	📍Marathi
--	📍Hindi
+- 📍English
+- 📍Marathi
+- 📍Hindi
 
 """
 )

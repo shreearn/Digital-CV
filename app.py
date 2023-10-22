@@ -83,7 +83,7 @@ with col4:
 #Experience
 st.write('\n')
 st.write('\n')
-st.subheader("Experience")
+st.subheader("Virtual Internship")
 st.write('\n')
 st.write("📌","[Data Science Intern at LetsGrowMore](https://drive.google.com/file/d/1dbRHXvTWWnDxYnoMQYbHk8NfqxtHMIaY/view?usp=drive_link)")
 st.write("-"+" Mar 2023 - Apr 2023")
@@ -96,18 +96,6 @@ st.write("""
 """)
 
 
-
-st.write('\n')
-st.write('\n')
-st.write('\n')
-st.write("📌","[Data Visualization: Empowering Business with Effective Insights by TATA](https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=sharing)")
-st.write("-"+" May 2023 - Jul 2023")
-st.write("""
--  🔗Frame business scenarios to understand objectives and define visualization requirements.
--  🔗Select appropriate visualizations based on data analysis to effectively represent patterns, trends, and relationships.
--  🔗Create impactful visualizations using Tableau, applying best practices in design for accuracy, reliability, and visual appeal.
--  🔗Communicate insights and analysis through clear narratives and presentations to stakeholders.
-""")
 
 st.write('\n')
 st.write('\n')
@@ -138,15 +126,15 @@ st.write('\n')
 st.write('\n')
 st.subheader("Qualifications")
 st.write("---")
-st.write("- 📚 BSc Data Science ")
+st.write("- 📗 BSc Data Science ")
 st.write("- -  KES Shroff College")
 st.write("- - "+"2020 - 2023")
 st.write('\n')
-st.write("- 📚 HSC")
+st.write("- 📗 HSC")
 st.write("- -  Swami Vivekanand International School and Jr College")
 st.write("- - "+"2018 - 2020")
 st.write('\n')
-st.write("- 📚 SSC")
+st.write("- 📗 SSC")
 st.write("- -  Indian Education Society")
 st.write("- - "+"2007 - 2018")
 
@@ -155,12 +143,12 @@ st.write("- - "+"2007 - 2018")
 
 
 
-#skills
+#Technical skills
 st.write('\n')
 st.write('\n')
 st.write('\n')
 st.write('\n')
-st.subheader("Skills")
+st.subheader("Technical Skills")
 st.write("---")
 st.write(
     """
@@ -168,13 +156,32 @@ st.write(
 -	▶️Python
 -	▶️Machine Learning
 -	▶️Tableau
--	▶️Excel
 -   ▶️Data Visualization 
 -   ▶️Data Mining
 -   ▶️SQL
+-   ▶️Microsoft Excel
+-   ▶️Microsoft word
+-   ▶️Microsoft PowerPoint
+-   ▶️Power bi
+
 """
 )
 
+#soft skills
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.subheader("Soft Skills")
+st.write("---")
+st.write(
+    """
+-   ▶️Adapyibility
+-	▶️Communication Skills
+-	▶️Teamwork
+
+"""
+)
 
 
 #projects
@@ -184,8 +191,8 @@ st.write('\n')
 st.write('\n')
 st.subheader("Projects")
 st.write("---")
-st.write("🏆WhatsApp Chat Analyzer")
-st.write("🏆Digital CV")
+st.write("🔰WhatsApp Chat Analyzer")
+st.write("🔰Digital CV")
 
 
 
@@ -199,9 +206,25 @@ st.write('\n')
 st.subheader("Certifications")
 st.write("---")
 
-st.write("📄[Advanced Ms-Excel by Kes Shroff College](https://drive.google.com/file/d/1JYDrTZ5RxPj8yPTs7Pgjo4jdCp-xUwRV/view?usp=drive_link)")
-st.write("📄[Introduction to Large Language Models by Google](https://drive.google.com/file/d/1t_BCDRbKbr_Ost-kKI3IxpBAiQt1howe/view?usp=sharing)")
+st.write("🎖️[Data Analyst by ExcelR ](https://drive.google.com/file/d/10nynr_WKnOBmSEG627A9YrWrxeeFN7Tc/view?usp=share_link)")
+st.write("🎖️[Data Visualization: Empowering Business with Effective Insights by Tata](https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=share_link)")
+st.write("🎖️[Advanced Ms-Excel by Kes Shroff College](https://drive.google.com/file/d/1JYDrTZ5RxPj8yPTs7Pgjo4jdCp-xUwRV/view?usp=drive_link)")
+st.write("🎖️[Introduction to Large Language Models by Google](https://drive.google.com/file/d/1t_BCDRbKbr_Ost-kKI3IxpBAiQt1howe/view?usp=sharing)")
+#languages known
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.subheader("Languages kwon")
+st.write("---")
+st.write(
+    """
+-   📍English
+-	📍Marathi
+-	📍Hindi
 
+"""
+)
 
 
 

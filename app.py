@@ -191,7 +191,7 @@ st.write('\n')
 st.write('\n')
 st.subheader("Projects")
 st.write("---")
-st.write("🔰WhatsApp Chat Analyzer")
+st.write("🔰[WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer-asxkkmsg7tccppetijqnfq.streamlit.app/)")
 st.write("🔰Digital CV")
 
 

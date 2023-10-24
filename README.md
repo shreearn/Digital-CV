@@ -1,2 +1,2 @@
 # Digital-CV
-https://bhagyashrees-digital-cv.streamlit.app/
+https://digital-cv-bhagyashree.streamlit.app/

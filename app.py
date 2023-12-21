@@ -80,7 +80,25 @@ with col4:
     st.markdown('<a href="https://github.com/shreearn" target="_blank" style="text-decoration:none;"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="display:block;margin-left:auto;margin-right:auto;"></a>', unsafe_allow_html=True)
     st.markdown('<p style="text-align:center;font-size:16px;margin-top:10px;">GitHub</p>', unsafe_allow_html=True)
 
+
 #Experience
+st.write('\n')
+st.write('\n')
+st.subheader("Experience")
+st.write('\n')
+st.write("📌","[Data Analyst Intern at AI Variant](https://drive.google.com/file/d/1-u2qiuU7Jg_2Y_hpkdJ5KFzepqJm5czP/view?usp=sharing)")
+st.write("-"+" Sep 2023 - Dec 2023")
+st.write(""" 
+-  🔗Led a collaborative effort within a dynamic team to manage and refine extensive Excel datasets, each containing over 39,000 records, pivotal for a critical bank loan analysis project
+-  🔗Employed advanced techniques utilizing Excel Power Query to meticulously clean and standardize data. This involved resolving intricate issues like missing values, data type conversions, and ensuring uniformity across multiple columns
+-  🔗Spearheaded the integration of datasets, optimizing data integrity by eliminating redundant columns and harmonizing disparate data sources for enhanced analysis
+-  🔗Created high-impact and intuitive dashboards using Excel, Power BI, and Tableau, displaying vital finance KPIs
+-  🔗Leveraged SQL expertise to extract and analyze critical KPIs, showcasing adeptness in multiple data analysis and visualization tools, culminating in actionable insights for the finance domain
+-  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges
+
+""")
+
+#Virtual Internships
 st.write('\n')
 st.write('\n')
 st.subheader("Virtual Internship")

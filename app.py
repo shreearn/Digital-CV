@@ -14,7 +14,7 @@ PAGE_TITLE = "Digital CV | Bhagyashree Mahajan"
 PAGE_ICON = ":computer"
 NAME = "Bhagyashree Mahajan"
 DESCRIPTION = """
-Data Wizard with a Curious Mind and a Knack for Unveiling Insights that Drive Results.
+Interested in deriving insights, refining data, and deploying diverse analytics to craft impactful solutions for informed decision-making
 """
 
 PROJECTS = {

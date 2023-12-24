@@ -14,7 +14,7 @@ PAGE_TITLE = "Digital CV | Bhagyashree Mahajan"
 PAGE_ICON = ":computer"
 NAME = "Bhagyashree Mahajan"
 DESCRIPTION = """
-Interested in deriving insights, refining data, and deploying diverse analytics to craft impactful solutions for informed decision-making
+Interested in deriving insights, refining data, and deploying diverse analytics to craft impactful solutions for informed decision-making.
 """
 
 PROJECTS = {
@@ -89,12 +89,12 @@ st.write('\n')
 st.write("📌","[Data Analyst Intern at AI Variant](https://drive.google.com/file/d/1-u2qiuU7Jg_2Y_hpkdJ5KFzepqJm5czP/view?usp=sharing)")
 st.write("-"+" Sep 2023 - Dec 2023")
 st.write(""" 
--  🔗Led a collaborative effort within a dynamic team to manage and refine extensive Excel datasets, each containing over 39,000 records, pivotal for a critical bank loan analysis project
--  🔗Employed advanced techniques utilizing Excel Power Query to meticulously clean and standardize data. This involved resolving intricate issues like missing values, data type conversions, and ensuring uniformity across multiple columns
--  🔗Spearheaded the integration of datasets, optimizing data integrity by eliminating redundant columns and harmonizing disparate data sources for enhanced analysis
--  🔗Created high-impact and intuitive dashboards using Excel, Power BI, and Tableau, displaying vital finance KPIs
--  🔗Leveraged SQL expertise to extract and analyze critical KPIs, showcasing adeptness in multiple data analysis and visualization tools, culminating in actionable insights for the finance domain
--  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges
+-  🔗Led a collaborative effort within a dynamic team to manage and refine extensive Excel datasets, each containing over 39,000 records, pivotal for a critical bank loan analysis project.
+-  🔗Employed advanced techniques utilizing Excel Power Query to meticulously clean and standardize data. This involved resolving intricate issues like missing values, data type conversions, and ensuring uniformity across multiple columns.
+-  🔗Spearheaded the integration of datasets, optimizing data integrity by eliminating redundant columns and harmonizing disparate data sources for enhanced analysis.
+-  🔗Created high-impact and intuitive dashboards using Excel, Power BI, and Tableau, displaying vital finance KPIs.
+-  🔗Leveraged SQL expertise to extract and analyze critical KPIs, showcasing adeptness in multiple data analysis and visualization tools, culminating in actionable insights for the finance domain.
+-  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges.
 
 """)
 

@@ -233,7 +233,7 @@ st.write('\n')
 st.write('\n')
 st.write('\n')
 st.write('\n')
-st.subheader("Languages kwon")
+st.subheader("Languages known")
 st.write("---")
 st.write(
     """

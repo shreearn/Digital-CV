@@ -174,13 +174,14 @@ st.write(
 -	▶️Python
 -	▶️Machine Learning
 -	▶️Tableau
+-   ▶️Power bi
 -   ▶️Data Visualization 
 -   ▶️Data Mining
 -   ▶️SQL
 -   ▶️Microsoft Excel
--   ▶️Microsoft word
+-   ▶️Microsoft Word
 -   ▶️Microsoft PowerPoint
--   ▶️Power bi
+- 
 
 """
 )

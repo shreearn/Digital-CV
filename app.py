@@ -143,7 +143,7 @@ st.write('\n')
 st.write('\n')
 st.subheader("Qualifications")
 st.write("---")
-st.write("- ❇️ BSc Data Science")❇️
+st.write("- ❇ BSc Data Science")
 st.write("- -  Kes Shroff College")           
 st.write("- - "+"2020 - 2023")
 st.write('\n')

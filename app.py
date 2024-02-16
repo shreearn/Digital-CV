@@ -89,12 +89,11 @@ st.write('\n')
 st.write("📌","[Data Analyst Intern at AI Variant](https://drive.google.com/file/d/1-u2qiuU7Jg_2Y_hpkdJ5KFzepqJm5czP/view?usp=sharing)")
 st.write("-"+" Sep 2023 - Dec 2023")
 st.write(""" 
--  🔗Led a collaborative effort within a dynamic team to manage and refine extensive Excel datasets, each containing over 39,000 records, pivotal for a critical bank loan analysis project.
--  🔗Employed advanced techniques utilizing Excel Power Query to meticulously clean and standardize data. This involved resolving intricate issues like missing values, data type conversions, and ensuring uniformity across multiple columns.
--  🔗Spearheaded the integration of datasets, optimizing data integrity by eliminating redundant columns and harmonizing disparate data sources for enhanced analysis.
--  🔗Created high-impact and intuitive dashboards using Excel, Power BI, and Tableau, displaying vital finance KPIs.
--  🔗Leveraged SQL expertise to extract and analyze critical KPIs, showcasing adeptness in multiple data analysis and visualization tools, culminating in actionable insights for the finance domain.
--  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges.
+-  🔗Led a collaborative effort within a team to manage and refine extensive Excel datasets, significantly improving data quality and accuracy for a critical bank loan analysis project.
+-  🔗Utilized advanced Excel Power Query techniques to clean and standardize data, resulting in a 25% reduction in data errors and inconsistencies. Integrated datasets to optimize data integrity, reducing redundant columns by 30% and harmonizing disparate data sources for more efficient analysis. Additionally, leveraged SQL expertise to extract and analyze critical KPIs.
+-  🔗Created high-impact dashboards using Excel, Power BI, and Tableau, improving data visualization and enabling enhance process to make informed decisions based on finance KPIs. This effort contributed to a 15% increase in actionable insights, particularly through Power BI, for the finance domain.
+-  🔗Continuously sought out and implemented new tools and techniques to enhance data analysis processes, resulting in a 10% increase in productivity.
+-  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges
 
 """)
 
@@ -144,15 +143,15 @@ st.write('\n')
 st.write('\n')
 st.subheader("Qualifications")
 st.write("---")
-st.write("- 📗 BSc Data Science")
+st.write("- ❇️ BSc Data Science")❇️
 st.write("- -  Kes Shroff College")           
 st.write("- - "+"2020 - 2023")
 st.write('\n')
-st.write("- 📗 HSC")
+st.write("- ❇️ HSC")
 st.write("- -  Swami Vivekanand International School and Jr College")
 st.write("- - "+"2018 - 2020")
 st.write('\n')
-st.write("- 📗 SSC")
+st.write("- ❇️ SSC")
 st.write("- -  Indian Education Society")
 st.write("- - "+"2007 - 2018")
 
@@ -177,11 +176,10 @@ st.write(
 -   ▶️Power bi
 -   ▶️Data Visualization 
 -   ▶️Data Mining
--   ▶️SQL
 -   ▶️Microsoft Excel
 -   ▶️Microsoft Word
 -   ▶️Microsoft PowerPoint
-- 
+
 
 """
 )
@@ -210,8 +208,8 @@ st.write('\n')
 st.write('\n')
 st.subheader("Projects")
 st.write("---")
-st.write("🔰[WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer-asxkkmsg7tccppetijqnfq.streamlit.app/)")
-st.write("🔰Digital CV")
+st.write("🔰[WhatsApp Chat Analyzer - Analyze chat data, visualize trends.](https://whatsapp-chat-analyzer-asxkkmsg7tccppetijqnfq.streamlit.app/)")
+st.write("🔰Digital CV - Enhanced, interactive CV platform")
 
 
 

@@ -89,12 +89,11 @@ st.write('\n')
 st.write("📌","[Data Analyst Intern at AI Variant](https://drive.google.com/file/d/1-u2qiuU7Jg_2Y_hpkdJ5KFzepqJm5czP/view?usp=sharing)")
 st.write("-"+" Sep 2023 - Dec 2023")
 st.write(""" 
--  🔗Led a collaborative effort within a team to manage and refine extensive Excel datasets, significantly improving data quality and accuracy for a critical bank loan analysis project.
--  🔗Utilized advanced Excel Power Query techniques to clean and standardize data, resulting in a 25% reduction in data errors and inconsistencies. Integrated datasets to optimize data integrity, reducing redundant columns by 30% and harmonizing disparate data sources for more efficient analysis. Additionally, leveraged SQL expertise to extract and analyze critical KPIs.
+-  🔗Led a collaborative effort within a team to manage and refine extensive datasets, significantly improving data quality and accuracy for a critical bank loan analysis project
+-  🔗Utilized advanced Excel Power Query techniques to clean and standardize data, resulting in a 20% reduction in data errors and inconsistencies. Integrated datasets to optimize data integrity, reducing redundant columns by 10% and harmonizing disparate data sources for more efficient analysis. Additionally, leveraged SQL expertise to extract and analyze critical KPIs.
 -  🔗Created high-impact dashboards using Excel, Power BI, and Tableau, improving data visualization and enabling enhance process to make informed decisions based on finance KPIs. This effort contributed to a 15% increase in actionable insights, particularly through Power BI, for the finance domain.
--  🔗Continuously sought out and implemented new tools and techniques to enhance data analysis processes, resulting in a 10% increase in productivity.
+-  🔗Continuously sought out and implemented new tools and techniques to enhance data analysis processes, resulting in a 5% increase in productivity.
 -  🔗This hands-on experience has fostered a deep understanding of data management, analysis, and visualization within the finance sector, providing a robust foundation for contributing effectively to industry challenges
-
 """)
 
 #Virtual Internships

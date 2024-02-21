@@ -223,6 +223,7 @@ st.write("🎖️[Data Analyst by ExcelR ](https://drive.google.com/file/d/10nyn
 st.write("🎖️[Data Visualization: Empowering Business with Effective Insights by Tata](https://drive.google.com/file/d/11Dd7WZyU5LIhk8i9w7eZzmwoMOJ1Imvn/view?usp=share_link)")
 st.write("🎖️[Advanced Ms-Excel by Kes Shroff College](https://drive.google.com/file/d/1JYDrTZ5RxPj8yPTs7Pgjo4jdCp-xUwRV/view?usp=drive_link)")
 st.write("🎖️[Introduction to Large Language Models by Google](https://drive.google.com/file/d/1t_BCDRbKbr_Ost-kKI3IxpBAiQt1howe/view?usp=sharing)")
+st.write("🎖️[Completed Data Analytics and Visualization Job Simulation virtual internship (2023)](https://drive.google.com/file/d/1XMh2sg-1W2QuhctVJAaHQy9FIChU0Lmq/view?usp=drive_link)")
 #languages known
 st.write('\n')
 st.write('\n')

@@ -1,7 +1,7 @@
 # Digital-CV
 https://digital-cv-bhagyashree.streamlit.app/
 
-scroll down to connect with me through email or LinkedIn!
+Connect with me through email or LinkedIn by scrolling down to the bottom after exploring my Digital CV below!
 
 ---
 Introduction:

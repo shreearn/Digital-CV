@@ -8,11 +8,11 @@ This project is a digital CV that provides an interactive and engaging way to sh
 
 Features
 
-Interactive Profile: View my profile picture, contact information, and a brief description of myself. You can click on the links to view my certifications, projects, and more.
+- Interactive Profile: View my profile picture, contact information, and a brief description of myself. You can click on the links to view my certifications, projects, and more.
 
-Download Resume: Download my resume directly from the CV.
+- Download Resume: Download my resume directly from the CV.
 
-Social Media Links: Easily connect with me through email, LinkedIn, WhatsApp, and GitHub.
+- Social Media Links: Easily connect with me through email, LinkedIn, WhatsApp, and GitHub.
 
 
 

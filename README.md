@@ -8,7 +8,7 @@ Introduction:
 
 Welcome to my Digital CV! This platform offers an interactive experience to explore my professional profile. From skills and projects to certifications and more, you'll find everything presented in a visually appealing format.
 
-<br><br>
+<br>
 
 Description:
 - My Digital CV is designed to showcase my professional journey comprehensively. It features an interactive profile where you can view my contact information, profile picture, and a brief description of myself. You can also click on the links to explore my certifications, projects, and more.

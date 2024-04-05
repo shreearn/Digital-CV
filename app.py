@@ -210,7 +210,7 @@ st.subheader("Projects")
 st.write("---")
 st.write("🔰[WhatsApp Chat Analyzer - Designed a WhatsApp chat analysis tool to extract insights from conversations, providing users with visualizations of chat trends and communication patterns.](https://whatsapp-chat-analyzer-asxkkmsg7tccppetijqnfq.streamlit.app/)")
 st.write("🔰Digital CV - Enhanced, interactive CV platform")
-st.write("🔰Air Canvas -Developed an Air Canvas project using OpenCV and Mediapipe, enabling users to create art through hand gestures, showcasing a fusion of computer vision and machine learning skills.)
+st.write("🔰Air Canvas -Developed an Air Canvas project using OpenCV and Mediapipe, enabling users to create art through hand gestures, showcasing a fusion of computer vision and machine learning skills.")
 
 
 

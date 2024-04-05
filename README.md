@@ -3,7 +3,7 @@ https://digital-cv-bhagyashree.streamlit.app/
 
 scroll down to connect with me through email or LinkedIn!
 
-
+---
 Introduction:
 
 Welcome to my Digital CV! This platform offers an interactive experience to explore my professional profile. From skills and projects to certifications and more, you'll find everything presented in a visually appealing format.
